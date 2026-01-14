@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 📚I'm new in programming and I am interested in developing website<br>🎯 Goals: To be a future Web Developer<br></p>
+<p align="left">📚I'm new in programming and I am interested in developing website<br>🎯My goal is to be a Web Developer <br></p>
 ###
 
 <h2 align="left">I code with</h2>
