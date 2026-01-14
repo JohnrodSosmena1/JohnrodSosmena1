@@ -10,7 +10,8 @@
 
 ###
 
-📚 I'm new in programming and I am interested in developing website<br🎯 Goals: To be a web developer</p>
+📚 I'm new in programming and I am interested in developing website<br
+🎯 Goals: To be a web developer</p>
 
 ###
 
