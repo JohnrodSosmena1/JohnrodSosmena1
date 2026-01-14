@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">I'm new in programming and I am interested in developing website</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm new in programming and I am interested in developing website<br<br>🎯 Goals: To be a web developer</p>
 
 ###
 
