@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm new in programming and I am interested in developing website<br<br>🎯 Goals: To be a web developer</p>
+<p📚 I'm new in programming and I am interested in developing website<br<br>🎯 Goals: To be a web developer</p>
 
 ###
 
